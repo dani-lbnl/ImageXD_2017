@@ -1,11 +1,16 @@
 # Welcome to ImageXD 2017 exercise using Azure
 
-This site provides link to the image files to be used during Azure activities led by Vani Mandava, Director, Data Science Outreach at Microsoft Research.
+This site provides explanations and links to the image files needed for Azure-centric activities led by Vani Mandava, Director, Data Science Outreach at Microsoft Research.
 
-## The data
+## What: classify abstract samples into 2 classes
 
 Dataset consists of two classes, containg 2,000 files each, separated in 2 folders. Each file represents a sample obtained from simulation of a scattering pattern, which produces an image that can be very abstract to non-beamline scientists. 
 
+## Where: 
+
+## When:
+
+## How:
 ```markdown
 Syntax highlighted code block
 
@@ -24,9 +29,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+## Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dani-lbnl/imagexd2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
