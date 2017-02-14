@@ -4,7 +4,7 @@ This site provides explanations and links to the image files needed for Azure-ce
 
 ## What: classify abstract samples into 2 classes
 
-Dataset consists of two classes, containg 2,000 files each, separated in 2 folders. Each file represents a sample obtained from simulation of a scattering pattern, which produces an image that can be very abstract to non-beamline scientists. 
+Dataset consists of two classes, containg 2,000 files each, separated in 2 folders (bcc and hcpnone). Each file represents a sample obtained from simulation of a scattering pattern, which produces an image that can be very abstract to non-beamline scientists. 
 
 ## Where: 
 
