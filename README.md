@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to ImageXD 2017 exercise using Azure
 
-You can use the [editor on GitHub](https://github.com/dani-lbnl/imagexd2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site provides link to the image files to be used during Azure activities led by Vani Mandava, Director, Data Science Outreach at Microsoft Research.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## The data
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dataset consists of two classes, containg 2,000 files each, separated in 2 folders. Each file represents a sample obtained from simulation of a scattering pattern, which produces an image that can be very abstract to non-beamline scientists. 
 
 ```markdown
 Syntax highlighted code block
