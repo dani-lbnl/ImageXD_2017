@@ -2,15 +2,19 @@
 
 This [site](https://dani-lbnl.github.io/imagexd2017/) provides explanations and links to the image files needed for Azure-centric activities led by Vani Mandava, Director, Data Science Outreach at Microsoft Research.
 
-## What: classify abstract samples into 2 classes
+## What: 
+Classify abstract samples into 2 classes
 
 Dataset consists of two classes, containg 2,000 files each, separated in 2 folders (bcc and hcpnone). Each file represents a sample obtained from simulation of a scattering pattern, which produces an image that can be very abstract to non-beamline scientists. 
 
-## Where: activities will happen at University of Washington.
+## Where: 
+Activities will happen at University of Washington.
 
-## When: this exercise will allow practice during ImageXD-2017 core program.
+## When: 
+This exercise will allow practice during ImageXD-2017 core program.
 
-## Who: all those who want to use real image data to train machine learning models using Azure tools.
+## Who: 
+All of those who want to use real image data to train machine learning models using Azure tools.
 
 ## How:
 ```markdown
