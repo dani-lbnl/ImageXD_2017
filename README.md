@@ -7,6 +7,9 @@ Classify abstract samples into 2 classes
 
 Dataset consists of two classes, containg 2,000 files each, separated in 2 folders (bcc and hcpnone). Each file represents a sample obtained from simulation of a scattering pattern, which produces an image that can be very abstract to non-beamline scientists. 
 
+## About the data:
+Grazing Incidence Small Angle X-ray Scattering (GISAXS) is a method for characterizing the nanostructural features of materials. This imaging modality supports measurements of the size, shape, and spatial organization of nanoscale objects located on top of thin film materials. Also, GISAXS provide statistical information at the nanometer level. This database is a simulation of GISAXS experiments from a special simulator called HipGISAXS.  It is able to handle large input data and perform GISAXS simulations at high resolutions. Using HipGISAXS, we created sample image data with scattering patterns corresponding to two different crystal unit cell structures: BCC: Body Centered Cubic and HCP: Hexagonal Close Packed.
+
 ## Where: 
 Activities will happen at University of Washington.
 
