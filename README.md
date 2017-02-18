@@ -23,22 +23,10 @@ All of those who want to use real image data to train machine learning models us
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Download the data 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Link](http://vis.lbl.gov/~daniela/2017/data/hipgisaxs.zip) and ![Image](src)
 ```
-
-## Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dani-lbnl/imagexd2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
