@@ -22,18 +22,15 @@ All of those who want to use real image data to train machine learning models us
 ## How:
 - Download the data: [Link](http://vis.lbl.gov/~daniela/2017/data/hipgisaxs.zip)
 
-![Image](http://vis.lbl.gov/~daniela/data/saxs/saxgen004_cubic.gif)
+-> ![Image](http://vis.lbl.gov/~daniela/data/saxs/saxgen004_cubic.gif) <-
 
 ```markdown
 Important references:
-A. Hexemer, “HipGISAXS: A massively-parallel highperformance
-x-ray scattering data analysis code,” ”http://
-www.camera.lbl.gov/gisaxs”, 2016, accessed on Dec 13,
-2016.
+A. Hexemer, “HipGISAXS: A massively-parallel highperformance x-ray scattering data analysis code,” 
+http://www.camera.lbl.gov/gisaxs, 2016, accessed on Dec 13, 2016.
 
-A. Hexemer and P. M¨uller-Buschbaum, “Advanced
-grazing-incidence techniques for modern soft-matter materials
-analysis,” IUCrJ, vol. 2, no. 1, pp. 106–125, 2015.
+A. Hexemer and P. M¨uller-Buschbaum, “Advanced grazing-incidence techniques for modern soft-matter 
+materials analysis,” IUCrJ, vol. 2, no. 1, pp. 106–125, 2015.
 ```
 
 ### Support or Contact
