@@ -20,12 +20,12 @@ This exercise will allow practice during ImageXD-2017 core program.
 All of those who want to use real image data to train machine learning models using Azure tools.
 
 ## How:
+- Download the data: [Link](http://vis.lbl.gov/~daniela/2017/data/hipgisaxs.zip) and 
+![Image](http://vis.lbl.gov/~daniela/data/saxs/saxgen004_cubic.gif)
+
 ```markdown
 Syntax highlighted code block
 
-# Download the data 
-
-[Link](http://vis.lbl.gov/~daniela/2017/data/hipgisaxs.zip) and ![Image](src)
 ```
 
 ### Support or Contact
