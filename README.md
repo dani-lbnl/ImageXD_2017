@@ -1,6 +1,6 @@
 # Welcome to ImageXD 2017 - exercise using Azure
 
-This [site](https://dani-lbnl.github.io/imagexd2017/) provides explanations and links to the image files needed for Azure-centric activities led by Vani Mandava, Director, Data Science Outreach at Microsoft Research.
+This [site](https://dani-lbnl.github.io/ImageXD_2017/) provides explanations and links to the image files needed for Azure-centric activities led by Vani Mandava, Director, Data Science Outreach at Microsoft Research.
 
 ## What: 
 Classify abstract samples into 2 classes
