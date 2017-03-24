@@ -23,8 +23,8 @@ All of those who want to use real image data to train machine learning models us
 - Download the data: [Link](http://vis.lbl.gov/~daniela/data/saxs/hipgisaxs.zip)
 
 <p align="center">
-<img src="http://vis.lbl.gov/~daniela/data/saxs/bcc.gif">  
-<img src="http://vis.lbl.gov/~daniela/data/saxs/hcpnone.gif">
+<img src="http://vis.lbl.gov/~daniela/data/saxs/hipgisaxs/bcc.gif">  
+<img src="http://vis.lbl.gov/~daniela/data/saxs/hipgisaxs/hcpnone.gif">
 </p>
 
 ```markdown
