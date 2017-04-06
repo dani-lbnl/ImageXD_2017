@@ -1,5 +1,5 @@
 # Welcome to ImageXD 2017
-This [site](https://dani-lbnl.github.io/ImageXD_2017/) provides details about ImageXD v.2.0 ([2017](http://www.imagexd.org)), and examples I exercised during the event. [Click for photos]().
+This [site](https://dani-lbnl.github.io/ImageXD_2017/) provides details about my experience at ImageXD v.2.0 ([2017](http://www.imagexd.org)), and examples of what we exercised during the event. [Click for photos]().
 
 ## Exercise using Azure
 Find below the image files needed for Azure-centric activities during tutorial led by Vani Mandava, Director, Data Science Outreach at Microsoft Research at the [ImageXD 2017 event](http://www.imagexd.org/). Activities will happen at University of Washington. This exercise will allow practice during ImageXD-2017 core program. All of those who want to use real image data to train machine learning models using Azure tools and will win a $500.00 alocation.
